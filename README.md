@@ -3,8 +3,6 @@
 ## 使用cloudflare worker搭建导航站
 ### 1.登录cloudflare网站
 
-[cloudflare网址]: https://www.cloudflare.com/	"cloudflare网址"
-
 ![](https://img.hurl.us.kg/file/AgACAgUAAyEGAASPCjOZAAPLZuQS9cnk3iPXpkupwVHtHesEnAcAAji7MRt6mylXW9VESoQ8SowBAAMCAAN4AAM2BA.png)
 
 ### 2.新建worker
